@@ -9,7 +9,7 @@ Projekt do programka pro naprogramování hry Lodě v jazyku C.
 - Hra končí, když jeden z hráčů přijde o celou flotu. 
 
 # Flotila
-1 bitevní loď - 1×4 políčka
-2 křižníky - 1×3 políčka
-4 torpédoborce - 1×2 políčka 
-2 ponorky - 1×1 políčko 
+- 1 bitevní loď - 1×4 políčka
+- 2 křižníky - 1×3 políčka
+- 4 torpédoborce - 1×2 políčka 
+- 2 ponorky - 1×1 políčko 
