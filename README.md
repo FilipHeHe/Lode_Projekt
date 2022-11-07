@@ -13,3 +13,6 @@ Projekt do programka pro naprogramování hry Lodě v jazyku C.
 - 2 křižníky - 1×3 políčka
 - 4 torpédoborce - 1×2 políčka 
 - 2 ponorky - 1×1 políčko 
+
+# Inspirační linky:
+- https://github.com/pfdinc/Battleship-in-C
