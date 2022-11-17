@@ -17,3 +17,4 @@ Projekt do programka pro naprogramování hry Lodě v jazyku C.
 # Inspirační linky:
 - https://github.com/pfdinc/Battleship-in-C
 - https://codereview.stackexchange.com/questions/268935/console-battleship-game-made-in-c
+- [https://replit.com/@FilipRuza/SomePrimaryApplicationpackage#main.c****](https://replit.com/@FilipRuza/SomePrimaryApplicationpackage)
