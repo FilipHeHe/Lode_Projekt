@@ -1,4 +1,2 @@
 
-void multiplayer() {
-
-}
+void multiplayer();
